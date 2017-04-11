@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{45ADBC70-455D-8FA2-4B6E-D7B08EFE4CDB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GitGood",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
